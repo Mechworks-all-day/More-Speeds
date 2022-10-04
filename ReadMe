@@ -1,3 +1,5 @@
 This simply adds in more speed options, detailed below:
 
-    * Realist: Standard speed, but with 2.5× time for research and slower year progression.
+    * Realist: Standard speed, but with 2.5× time for research and slower year progression (plus some other background adjustments).
+    * Realist Plus: As above, but using values closer to the default Marathon speed.
+    * Long Haul: starts at 6000 BCE, slightly faster year progression than the other two but uses values similar to Marathon for research etc.
