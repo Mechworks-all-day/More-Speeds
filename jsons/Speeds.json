@@ -4,9 +4,9 @@
     "modifier": 1.0,
     "productionCostModifier": 1.0,
     "goldCostModifier": 1.0,
-    "scienceCostModifier": 2.5,
-    "cultureCostModifier": 2.5,
-    "faithCostModifier": 1.69,
+    "scienceCostModifier": 3,
+    "cultureCostModifier": 3,
+    "faithCostModifier": 2,
     "improvementBuildLengthModifier": 1.0,
     "barbarianModifier": 1.0,
     "goldGiftModifier": 1.0,
@@ -19,23 +19,27 @@
     "turns": 
     [
       {
-        "yearsPerTurn": 20,
-        "untilTurn": 10
+        "yearsPerTurn": 50,
+        "untilTurn": 60
       },
       {
-        "yearsPerTurn": 10,
-        "untilTurn": 20
-      },
-      {
-        "yearsPerTurn": 1,
+        "yearsPerTurn": 25,
         "untilTurn": 100
       },
       {
-        "yearsPerTurn": 0.5,
-        "untilTurn": 200
+        "yearsPerTurn": 12,
+        "untilTurn": 183
       },
       {
-        "yearsPerTurn": 0.25,
+        "yearsPerTurn": 6,
+        "untilTurn": 266
+      },
+      {
+        "yearsPerTurn": 3,
+        "untilTurn": 349
+      }
+      {
+        "yearsPerTurn": 1,
         "untilTurn": 500
       }
     ]
