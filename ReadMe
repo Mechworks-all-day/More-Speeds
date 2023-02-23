@@ -3,3 +3,11 @@ This simply adds in more speed options, detailed below:
     * Realist: Standard speed, but with 2.5× time for research and slower year progression (plus some other background adjustments).
     * Realist Plus: As above, but using values closer to the default Marathon speed.
     * Long Haul: starts at 6000 BCE, slightly faster year progression than the other two but uses values similar to Marathon for research etc.
+    * Extended: Similar to Realist, but does Horrible Math Things™ to the default years-to-turn values.
+    * Even More Extended: Like Extended, but EVEN LONGER
+    * One to One:    Every turn is one year.
+    * One to Five:   Every turn is five years
+    * One to Ten:    Every turn is one decade
+    * One to Twenty: Every turn is two decades
+    * One to Forty:  Every turn is four decades (this is identical to Standard, but the year to turn ratios don't ever change.)
+
